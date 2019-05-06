@@ -37,8 +37,16 @@ The results will be saved in `DAVSOD/results/SSAV/`.
 
 7. You can also evaluate the model performance (S-measure[1], E-measure[2], F-measure and MAE) using our one-key matlab code `main.m` in `DAVSOD/EvaluateTool/` directory.
 
+```
 [1]Structure-measure: A New Way to Evaluate the Foregournd Maps, ICCV2017, spotlight.
+```
+
+```
 [2]Enhanced Alignment Measure for Binary Foreground Map Evaluation, IJCAI2018, Oral.
+```
+
+Note that: Due to the 
+
 
 ## Performance Preview
 Quantitative comparisons
@@ -49,7 +57,8 @@ Quanlitative comparisons
 
 
 ## Related Citations (BibTeX)
-SSAV model
+If you find this useful, please cite the related works as follows:
+SSAV model/DAVSOD dataset
 ```
 @InProceedings{Fan_2019_CVPR,
    author = {Fan, Deng-Ping and Wang, Wenguan and Cheng, Ming-Ming and Shen, Jianbing}, 
@@ -81,3 +90,35 @@ Metrics
   pages     = {4548-4557}
 }
 ```
+
+##License
+
+	Copyright (c) 2019, Deng-Ping Fan
+	All rights reserved.
+    
+	This code is for academic communication only and not for commercial purposes. 
+	If you want to use for commercial please contact me.
+	
+	Redistribution and use in source with or without
+	modification, are permitted provided that the following conditions are
+	met:
+    		* Redistributions of source code must retain the above copyright
+      		  notice, this list of conditions and the following disclaimer.
+    		* Redistributions in binary form must reproduce the above copyright
+      		  notice, this list of conditions and the following disclaimer in
+      		  the documentation and/or other materials provided with the distribution
+
+	THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+	AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+	IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+	ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE 	
+	LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+	CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+	SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+	INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+	CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+	ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+	POSSIBILITY OF SUCH DAMAGE.
+
+
+If you find any bugs, please contact Deng-Ping Fan (dengpingfan@mail.nankai.edu.cn).
