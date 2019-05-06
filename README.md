@@ -8,7 +8,7 @@ __Contact__:  Deng-Ping Fan, Email: dengpingfan@mail.nankai.edu.cn
 __Abstract__
 The last decade has witnessed a growing interest in video salient object detection (VSOD). However, the research community long-term lacked a well-established VSOD dataset representative of real dynamic scenes with high-quality annotations. To address this issue, we elaborately collected a visual-attention-consistent Densely Annotated VSOD (DAVSOD) dataset, which contains 226 videos with 23,938 frames that cover diverse realistic-scenes, objects, instances and motions. With corresponding real human eye-fixation data, we obtain precise ground-truths. This is the first work that explicitly emphasizes the challenge of saliency shift, i.e., the video salient object(s) may dynamically change. To further contribute the community a complete benchmark, we systematically assess 17 representative VSOD algorithms over seven existing VSOD datasets and our DAVSOD with totally ~84K frames (largest-scale). Utilizing three famous metrics, we then present a comprehensive and insightful performance analysis. Furthermore, we propose a baseline model. It is equipped with a saliencyshift-aware convLSTM, which can efficiently capture video saliency dynamics through learning human attention-shift behavior. Extensive experiments1 open up promising future directions for model development and comparison.
 
-__pre-computed saliency maps__: [See my homepage](http://dpfan.net/DAVSOD/). 
+__pre-computed saliency maps__: [http://dpfan.net/DAVSOD/](http://dpfan.net/DAVSOD/). 
 
 
 ## Usage
@@ -30,14 +30,23 @@ make all -j8
 make pycaffe
 ```
 
-5. Download pretrained caffemodel from [my homepage](http://dpfan.net/DAVSOD) and extract the .zip file under the root directory `DAVSOD/model/`. 
+5. Download pretrained caffemodel from [my homepage](http://dpfan.net/DAVSOD) or directly from [[baidu pan](https://pan.baidu.com/s/1dg_dcgFNOnUubfQev0e4Ag)](Fetch Code: pb0h)/ [[google drive](https://drive.google.com/open?id=1o9PkfgMpUI8McGSCgWG8cdGJF4dFmHrM)] and extract the .zip file under the root directory `DAVSOD/model/`. 
 
 6. Put the test image in `DAVSOD/Datasets/` and run `generateTestList.py` to get the test list. Then run `SSAV_test.py` to get the saliency maps. 
-The results will be saved in `DAVSOD/results/SSAV/`. You can also evaluate the model performance (S-measure[1], E-measure[2], F-measure and MAE) 
-using our matlab code `main.m` in `DAVSOD/EvaluateTool/` directory.
+The results will be saved in `DAVSOD/results/SSAV/`. 
+
+7. You can also evaluate the model performance (S-measure[1], E-measure[2], F-measure and MAE) using our one-key matlab code `main.m` in `DAVSOD/EvaluateTool/` directory.
 
 [1]Structure-measure: A New Way to Evaluate the Foregournd Maps, ICCV2017, spotlight.
 [2]Enhanced Alignment Measure for Binary Foreground Map Evaluation, IJCAI2018, Oral.
+
+## Performance Preview
+Quantitative comparisons
+![table4](https://github.com/DengPingFan/DAVSOD/blob/master/figures/Table4.png "table4")
+
+Quanlitative comparisons
+![fig6](hhttps://github.com/DengPingFan/DAVSOD/blob/master/figures/Figure6.png "fig6")
+
 
 ## Citation
 ```
