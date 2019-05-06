@@ -45,15 +45,39 @@ Quantitative comparisons
 ![table4](https://github.com/DengPingFan/DAVSOD/blob/master/figures/Table4.png "table4")
 
 Quanlitative comparisons
-![fig6](hhttps://github.com/DengPingFan/DAVSOD/blob/master/figures/Figure6.png "fig6")
+![figure6](https://github.com/DengPingFan/DAVSOD/blob/master/figures/Figure6.png"figure6")
 
 
-## Citation
+## Related Citations (BibTeX)
+SSAV model
 ```
 @InProceedings{Fan_2019_CVPR,
    author = {Fan, Deng-Ping and Wang, Wenguan and Cheng, Ming-Ming and Shen, Jianbing}, 
    title = {Shifting More Attention to Video Salient Object Detection},
    booktitle = {IEEE CVPR},
    year = {2019}
+}
+```
+
+Metrics
+```
+%E-measure
+@inproceedings{Fan2018Enhanced,
+	author={Fan, Deng-Ping and Gong, Cheng and Cao, Yang and Ren, Bo and Cheng, Ming-Ming and Borji, Ali},
+	title={{Enhanced-alignment Measure for Binary Foreground Map Evaluation}},
+	booktitle={IJCAI},
+	pages={698--704},
+	year={2018}
+}
+```
+
+```
+%S-measure
+@inproceedings{fan2017structure,
+  author    = {Fan, Deng-Ping and Cheng, Ming-Ming and Liu, Yun and Li, Tao and Borji, Ali},
+  title     = {{Structure-measure: A New Way to Evaluate Foreground Maps}},
+  booktitle = {IEEE ICCV},
+  year      = {2017},
+  pages     = {4548-4557}
 }
 ```
