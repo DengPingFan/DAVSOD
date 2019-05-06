@@ -3,6 +3,8 @@ Code for paper in CVPR2019, 'Shifting More Attention to Video Salient Object Det
 
 __Contact__:  Deng-Ping Fan, Email: dengpingfan@mail.nankai.edu.cn
 
+![SSAV framework](https://github.com/DengPingFan/DAVSOD/tree/master/figures/framework.png "framework")
+
 __pre-computed saliency maps__: [line](http://dpfan.net/VSOD/). 
 
 
