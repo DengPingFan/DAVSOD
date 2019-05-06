@@ -21,9 +21,9 @@ def listFilesToTxt(dir,txtFile,extension,recursion):
 
 rootpath = './Datasets/'
 
-#dataset = 'DAVIS'
+dataset = ['DAVIS']
 
-datasets  = ['DAVIS', 'DAVSOD', 'FBMS', 'MCL' , 'SegTrack-V1', 'SegTrack-V2', 'UVSD', 'ViSal', 'VOS']
+#datasets  = ['DAVIS', 'DAVSOD', 'FBMS', 'MCL' , 'SegTrack-V1', 'SegTrack-V2', 'UVSD', 'ViSal', 'VOS']
 
 for dataset in datasets:
     

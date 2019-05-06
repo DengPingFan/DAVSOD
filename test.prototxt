@@ -15,9 +15,9 @@ layer {
   }
   image_data_param {
     shuffle: false
-    #source: "./txt/DAVIS_test.txt"
+    source: "./txt/DAVIS_test.txt"
     #source: "./txt/SegTrack-V2_test.txt"
-    source: "./txt/ViSal_test.txt"
+    #source: "./txt/ViSal_test.txt"
     #source: "./txt/FBMS_test.txt"
     #source: "./txt/MCL_test.txt"
     #source: "./txt/VOS_test.txt"

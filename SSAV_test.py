@@ -25,7 +25,7 @@ net = caffe.Net('./test.prototxt','./model/SSAV.caffemodel', caffe.TEST)
 #net = caffe.Net('./test.prototxt','./snapshot/SSAV_iter_15800.caffemodel', caffe.TEST)
 
 
-Dataset = 'ViSal'
+Dataset = 'DAVIS'
 
 with open('./txt/' + Dataset + '_test.txt') as f:
 	lines = f.readlines()
