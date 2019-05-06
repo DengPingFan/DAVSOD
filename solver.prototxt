@@ -1,0 +1,21 @@
+train_net: "train.prototxt"
+# lr for fine-tuning should be lower than when starting from scratch
+#debug_info: true
+#base_lr: 1e-9
+base_lr: 1e-8
+lr_policy: "step"
+#power: 0.9
+gamma: 0.1
+iter_size: 2
+# stepsize should also be lower, as we're closer to being done
+stepsize: 23000
+average_loss: 20
+display: 20
+#max_iter: 47000
+max_iter: 50000
+momentum: 0.90
+weight_decay: 0.0005
+snapshot: 100
+snapshot_prefix: "snapshot/SSAV"
+# uncomment the following to default to CPU mode solving
+# solver_mode: CPU 
