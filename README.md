@@ -16,7 +16,7 @@ __pre-computed saliency maps__: [See my homepage](http://dpfan.net/DAVSOD/).
 ```bash
 git clone https://github.com/DengPingFan/DAVSOD.git
 ```
-2. Cd to `SSAV/mycaffe-convlstm`, follow the [official instructions](http://caffe.berkeleyvision.org/installation.html) to build caffe. We provide our make file `Makefile.config` in folder `SSAV/mycaffe-convlstm`.
+2. Cd to `DAVSOD/mycaffe-convlstm`, follow the [official instructions](http://caffe.berkeleyvision.org/installation.html) to build caffe. We provide our make file `Makefile.config` in folder `DAVSOD/mycaffe-convlstm`.
 
 The code has been tested successfully on Ubuntu 16.04 with CUDA 8.0 and OpenCV 3.1.0
 
@@ -30,11 +30,11 @@ make all -j8
 make pycaffe
 ```
 
-5. Download pretrained caffemodel from [my homepage](http://dpfan.net/VSOD) and extract the .zip file under the root directory `SSAV/model/`. 
+5. Download pretrained caffemodel from [my homepage](http://dpfan.net/DAVSOD) and extract the .zip file under the root directory `DAVSOD/model/`. 
 
-6. Put the test image in `SSAV/Datasets/` and run `generateTestList.py` to get the test list. Then run `SSAV_test.py` to get the saliency maps. 
-The results will be saved in `SSAV/results/SSAV/`. You can also evaluate the model performance (S-measure[1], E-measure[2], F-measure and MAE) 
-using our matlab code `main.m` in `SSAV/EvaluateTool/` directory.
+6. Put the test image in `DAVSOD/Datasets/` and run `generateTestList.py` to get the test list. Then run `SSAV_test.py` to get the saliency maps. 
+The results will be saved in `DAVSOD/results/SSAV/`. You can also evaluate the model performance (S-measure[1], E-measure[2], F-measure and MAE) 
+using our matlab code `main.m` in `DAVSOD/EvaluateTool/` directory.
 
 [1]Structure-measure: A New Way to Evaluate the Foregournd Maps, ICCV2017, spotlight.
 [2]Enhanced Alignment Measure for Binary Foreground Map Evaluation, IJCAI2018, Oral.
