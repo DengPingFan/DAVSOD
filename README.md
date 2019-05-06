@@ -45,7 +45,7 @@ Quantitative comparisons
 ![table4](https://github.com/DengPingFan/DAVSOD/blob/master/figures/Table4.png "table4")
 
 Quanlitative comparisons
-![figure6](https://github.com/DengPingFan/DAVSOD/blob/master/figures/Figure6.png"figure6")
+![figure6](https://github.com/DengPingFan/DAVSOD/blob/master/figures/Figure6.png "figure6")
 
 
 ## Related Citations (BibTeX)
@@ -63,11 +63,11 @@ Metrics
 ```
 %E-measure
 @inproceedings{Fan2018Enhanced,
-	author={Fan, Deng-Ping and Gong, Cheng and Cao, Yang and Ren, Bo and Cheng, Ming-Ming and Borji, Ali},
-	title={{Enhanced-alignment Measure for Binary Foreground Map Evaluation}},
-	booktitle={IJCAI},
-	pages={698--704},
-	year={2018}
+   author={Fan, Deng-Ping and Gong, Cheng and Cao, Yang and Ren, Bo and Cheng, Ming-Ming and Borji, Ali},
+   title={{Enhanced-alignment Measure for Binary Foreground Map Evaluation}},
+   booktitle={IJCAI},
+   pages={698--704},
+   year={2018}
 }
 ```
 
