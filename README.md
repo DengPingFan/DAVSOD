@@ -1,5 +1,5 @@
 # SSAV
-Code for paper in CVPR2019, 'Shifting More Attention to Video Salient Object Detection', [Deng-Ping Fan](http://dpfan.net), [Ming-Ming Cheng](http://mmcheng.net), etal.
+Code for paper in CVPR2019, 'Shifting More Attention to Video Salient Object Detection', [Deng-Ping Fan](http://dpfan.net), [Wenguan Wang], [Ming-Ming Cheng](http://mmcheng.net), [Jianbing Shen].
 
 __Contact__:  Deng-Ping Fan, Email: dengpingfan@mail.nankai.edu.cn
 
