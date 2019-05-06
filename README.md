@@ -45,8 +45,10 @@ The results will be saved in `DAVSOD/results/SSAV/`.
 [2]Enhanced Alignment Measure for Binary Foreground Map Evaluation, IJCAI2018, Oral.
 ```
 
-Note that: Due to the 
-
+*************************************************************************************************************
+Note that: This version only provide the implicit manner for learning attention-shift. 
+           The explicit way to train this model will not be released due to the commercial purposes (Hua Wei, IIAI).
+*************************************************************************************************************
 
 ## Performance Preview
 Quantitative comparisons
