@@ -10,6 +10,9 @@ The last decade has witnessed a growing interest in video salient object detecti
 
 __pre-computed saliency maps and Datasets__: [http://dpfan.net/DAVSOD/](http://dpfan.net/DAVSOD/). 
 
+<div align="center">
+	<img src = "https://github.com/DengPingFan/DAVSOD/tree/master/figures/blackswan.gif" width = "640px"/>
+</div>
 
 ## Usage
 1. Clone this repo into your computer
