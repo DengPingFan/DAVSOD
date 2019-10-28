@@ -43,11 +43,11 @@ The results will be saved in `DAVSOD/results/SSAV/`.
 7. You can also evaluate the model performance (S-measure[1], E-measure[2], F-measure and MAE) using our one-key matlab code `main.m` in `DAVSOD/EvaluateTool/` directory.
 
 ```
-[1]Structure-measure: A New Way to Evaluate the Foregournd Maps, ICCV2017, spotlight.
+[1]Structure-measure: A New Way to Evaluate the Foregournd Maps, ICCV2017.
 ```
 
 ```
-[2]Enhanced Alignment Measure for Binary Foreground Map Evaluation, IJCAI2018, Oral.
+[2]Enhanced Alignment Measure for Binary Foreground Map Evaluation, IJCAI2018.
 ```
 
 *************************************************************************************************************
