@@ -113,7 +113,7 @@ Metrics
 
 ##License
 
-	Copyright (c) 2019, Deng-Ping Fan
+	Copyright (c) 2019, Deng-Ping Fan, Wenguan Wang, Ming-Ming Cheng, Jianbing Shen.
 	All rights reserved.
     
 	This code is for academic communication only and not for commercial purposes. 
