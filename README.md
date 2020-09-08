@@ -1,4 +1,4 @@
-# SSAV
+# SSAV (CVPR2019-Oral)
 Code for paper in CVPR2019, 'Shifting More Attention to Video Salient Object Detection', [Deng-Ping Fan](http://dpfan.net), [Wenguan Wang](https://github.com/wenguanwang), [Ming-Ming Cheng](http://mmcheng.net), [Jianbing Shen](http://iitlab.bit.edu.cn/mcislab/~shenjianbing/).
 
 __Contact__:  Deng-Ping Fan, Email: dengpingfan@mail.nankai.edu.cn
