@@ -3,6 +3,8 @@ Code for paper in CVPR2019, 'Shifting More Attention to Video Salient Object Det
 
 __Contact__:  Deng-Ping Fan, Email: dengpingfan@mail.nankai.edu.cn
 
+__Paper with code__: https://paperswithcode.com/task/video-salient-object-detection ("DPF*n, S**V2019cvprben***ark")
+
 ![SSAV framework](https://github.com/DengPingFan/DAVSOD/blob/master/figures/framework.png "framework")
 
 __Abstract__
