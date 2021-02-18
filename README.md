@@ -37,7 +37,7 @@ make pycaffe
 ```
 
 5. Download pretrained caffemodel from [my homepage](http://dpfan.net/DAVSOD) or directly from [[baidu pan](https://pan.baidu.com/s/1dg_dcgFNOnUubfQev0e4Ag)](Fetch Code: pb0h)/ [[google drive](https://drive.google.com/open?id=1o9PkfgMpUI8McGSCgWG8cdGJF4dFmHrM)] and extract the .zip file under the root directory `DAVSOD/model/`. 
-If you want to train the model start from scratch, you can download the basemodel from [[baidu pan](https://pan.baidu.com/s/1qEyXennBYT2yv82bNx5TgA)](Fetch Code:0xk4) or [[google drive]()] 
+If you want to train the model start from scratch, you can download the basemodel from [[baidu pan](https://pan.baidu.com/s/1qEyXennBYT2yv82bNx5TgA)](Fetch Code:0xk4) or [[google drive](https://drive.google.com/file/d/1y6cpqpkAaIzBEHHpWkePTSr9C8Pyk5ND/view?usp=sharing)] 
 
 6. Put the test image in `DAVSOD/Datasets/` and run `generateTestList.py` to get the test list. Then run `SSAV_test.py` to get the saliency maps. 
 The results will be saved in `DAVSOD/results/SSAV/`. 
