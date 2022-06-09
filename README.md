@@ -20,7 +20,7 @@ Code for paper in CVPR2019, 'Shifting More Attention to Video Salient Object Det
 
 ### Table of Contents
 - [SSAV (CVPR2019-Oral) <a name="headin"></a>](#ssav-cvpr2019-oral-)
-		- [Table of Contents](#table-of-contents)
+	- [Table of Contents](#table-of-contents)
 	- [Abstract](#abstract)
 	- [Notion of saliency shift](#notion-of-saliency-shift)
 	- [Statistics of DAVSOD](#statistics-of-davsod)
