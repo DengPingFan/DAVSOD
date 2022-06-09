@@ -3,7 +3,7 @@
 Code for paper in CVPR2019, 'Shifting More Attention to Video Salient Object Detection'
 
 > **Authors:**
-> [Deng-Ping Fan](https://dpfan.net/), 
+> [Deng-Ping Fan]([https://dpfan.net/](https://dengpingfan.github.io/)), 
 > [Wenguan Wang](https://github.com/wenguanwang), 
 > [Ming-Ming Cheng](http://mmcheng.net), 
 > [Jianbing Shen](http://iitlab.bit.edu.cn/mcislab/~shenjianbing/).
