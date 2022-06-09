@@ -37,7 +37,7 @@ The last decade has witnessed a growing interest in video salient object detecti
 The saliency shift is not just represented as a binary signal, w.r.t., whether it happens in a certain frame. Since we focus on an object-level task, we change the saliency values of different objects according to the shift of human attention. The rich annotations, including saliency shift, object-/instance-level ground-truths (GT), salient object numbers, scene/object categories, and camera/object motions, provide a solid foundation for VSOD task and benefit a wide range of potential applications.
 
 <p align="center">
-    <img src="figures/saliencyShift-1.png" width="98%" /> <br />
+    <img src="figures/saliencyShift-1.png" width="70%" /> <br />
     <em> 
     Figure 2: Annotation examples of our DAVSOD dataset.
     </em>
