@@ -235,7 +235,8 @@ Note that: This version only provide the **implicit manner** for learning attent
 		</em>
 	</p>
 
-	<video src='figures/Shifting More Attention to Video Salient Object Detection.mp4' width=180/>
+	[![Watch the video](https://img.youtube.com/vi/NgsDsXDA8Zo/maxresdefault.jpg
+)](https://youtu.be/NgsDsXDA8Zo)
 
 
 ## Citation
