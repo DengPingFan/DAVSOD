@@ -1,6 +1,6 @@
 # SSAV (CVPR2019-Oral) <a name="headin"></a>
 
-Code for paper in CVPR2019, 'Shifting More Attention to Video Salient Object Detection'
+Code for paper in CVPR2019, '**Shifting More Attention to Video Salient Object Detection**' 
 
 > **Authors:**
 > [Deng-Ping Fan]([https://dpfan.net/](https://dengpingfan.github.io/)), 
@@ -8,6 +8,7 @@ Code for paper in CVPR2019, 'Shifting More Attention to Video Salient Object Det
 > [Ming-Ming Cheng](http://mmcheng.net), 
 > [Jianbing Shen](http://iitlab.bit.edu.cn/mcislab/~shenjianbing/).
 
+[**Supplementary material** is also attached in the repo]
 
 **Paper with code**: https://paperswithcode.com/task/video-salient-object-detection 
 
