@@ -239,7 +239,7 @@ Note that: This version only provide the **implicit manner** for learning attent
 
 	<p align="center">
 		<em>
-		Video for Supplemental Material
+		Watch the video for Supplemental Material
 		</em>
 	</p>
 
