@@ -235,8 +235,13 @@ Note that: This version only provide the **implicit manner** for learning attent
 		</em>
 	</p>
 
-	[![Watch the video](https://img.youtube.com/vi/NgsDsXDA8Zo/maxresdefault.jpg
-)](https://youtu.be/NgsDsXDA8Zo)
+	[![Watch the video](https://img.youtube.com/vi/NgsDsXDA8Zo/maxresdefault.jpg)](https://youtu.be/NgsDsXDA8Zo)
+
+	<p align="center">
+		<em>
+		Video for Supplemental Material
+		</em>
+	</p>
 
 
 ## Citation
